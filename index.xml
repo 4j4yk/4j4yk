@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajay</title>
+    <link>http://www.ajaya.me/</link>
+    <description>Recent content on Ajay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://www.ajaya.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://www.ajaya.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajaya.me/about/</guid>
+      <description>&amp;ldquo;I always believe in setting a goal, focus on it and finally achieve it, then again, I have another goal to achieve.”
+ I infer this by remembering tales of my childhood, that is how I managed my small to big goals from learning “Snake and Ladder” game to becoming a software programmer. My aspiration to broaden my knowledge and gusto to solve the demanding problems faced by the industry.</description>
+    </item>
+    
+  </channel>
+</rss>
