@@ -1,10 +1,10 @@
 ### Hi there 👋 , I'm [Ajay!](https://4j4yk.github.io) :bowtie:
 
-`I always believe in setting a goal, focus on it and finally achieve it; then again, I have another goal to achieve.`
+`I always believe in setting a goal, focusing on it, and finally achieving it; then again, I have another goal to achieve.`
 
-I infer this by remembering tales of my childhood <img src="https://emojis.slackmojis.com/emojis/images/1496454200/2375/gokukid.png" width="40"/>; that is how I managed my small to big goals, from learning the `Snake and Ladder` game to becoming a software programmer. I aspire to broaden my knowledge and enthusiasm to solve the demanding problems faced by the industry. I encouraged myself to pursue a master's degree in Management Information systems with zeal to learn more about the latest and upcoming technology with hands-on experience in research projects.
+I infer this by remembering tales of my childhood <img src="https://emojis.slackmojis.com/emojis/images/1496454200/2375/gokukid.png" width="40"/>; that is how I managed my small to big goals, from learning the `Snakes and Ladders` game to becoming a software programmer. I aspire to broaden my knowledge and enthusiasm to solve the demanding problems faced by the industry. I encouraged myself to pursue a master's degree in Management Information Systems with a zeal to learn more about the latest and upcoming technology, with hands-on experience in research projects.
 
-I am an experienced Information Technology professional or (Fullstack Developer) providing end-to-end solutions. I have exposure to Web development, HP Nonstop server & Mainframe application development, with hands-on experience in managing small and large projects using waterfall & agile methodologies in a fast-paced environment.
+I am an experienced Information Technology professional (Fullstack Developer) providing end-to-end solutions. I have exposure to Web development, HP Nonstop server & Mainframe application development, with hands-on experience in managing small and large projects using waterfall & agile methodologies in a fast-paced environment.
 
 #### INTERESTS
 
@@ -13,6 +13,8 @@ I am an experienced Information Technology professional or (Fullstack Developer)
 - 🔭 Blockchain & Distributed Ledger Technologies
 - 🔭 Research And Education
 - :muscle: Sports 
+
+
 
 <!--
 **4j4yk/4j4yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
