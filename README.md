@@ -4,7 +4,7 @@
 
 I infer this by remembering tales of my childhood <img src="https://emojis.slackmojis.com/emojis/images/1496454200/2375/gokukid.png" width="40"/>; that is how I managed my small to big goals, from learning the `Snakes and Ladders` game to becoming a software programmer. I aspire to broaden my knowledge and enthusiasm to solve the demanding problems faced by the industry. I encouraged myself to pursue a master's degree in Management Information Systems with a zeal to learn more about the latest and upcoming technology, with hands-on experience in research projects.
 
-I am an experienced Information Technology professional (Fullstack Developer) providing end-to-end solutions. I have exposure to Web development, HP Nonstop server & Mainframe application development, with hands-on experience in managing small and large projects using waterfall & agile methodologies in a fast-paced environment.
+I am an experienced Information Technology professional providing end-to-end solutions. I have exposure to Web development, HP Nonstop server & Mainframe application development, with hands-on experience in managing small and large enterprise projects using waterfall & agile methodologies in a fast-paced environment and working with cross functional teams (onsite/offshore).
 
 #### INTERESTS
 
@@ -13,9 +13,7 @@ I am an experienced Information Technology professional (Fullstack Developer) pr
 - 🔭 Blockchain & Distributed Ledger Technologies
 - 🔭 Research And Education
 - :muscle: Sports 
-
-
-
+- Agentic Engineering
 <!--
 **4j4yk/4j4yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
